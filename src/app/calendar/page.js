@@ -28,7 +28,7 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen flex items-center justify-center p-8">
-      <h1 className="text-3xl font-bold text-center">Home Page</h1>
+      <h1 className="text-3xl font-bold text-center">Calendar</h1>
     </div>
   );
 }
