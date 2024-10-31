@@ -1,0 +1,10 @@
+export default function Page() {
+    return (
+      <div className="min-h-screen flex items-center justify-center p-8">
+        <h1 className="text-3xl font-bold text-center">
+          Sign Up
+        </h1>
+      </div>
+    );
+  }
+  
